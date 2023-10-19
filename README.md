@@ -6,3 +6,4 @@ this repo serves no particular purpose other than training my git skills.
 Thanks and goodbye.
 
 This line is a test of some commands so please ignore it ^_^.
+This one is test for branch merging and creation.
