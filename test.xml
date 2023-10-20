@@ -1,9 +1,0 @@
-<record id="model_name_view_calendar" model="ir.ui.view">
-    <field name="name">model_name.view.calendar</field>
-    <field name="model">model_name</field>
-    <field name="arch" type="xml">
-        <calendar string="" date_start="date_start_field" color="color_field">
-            
-        </calendar>
-    </field>
-</record>
